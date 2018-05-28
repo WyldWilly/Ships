@@ -1,0 +1,11 @@
+"Id","Name","Registry","Class","Type","ClassShip","Status"
+1,"Intrepid","NCC-1265","Intrepid",5,0,1
+2,"Enterprise","NCC-1701E","Sovereign",3,0,1
+3,"Reliant","NCC-1864","Saratoga",4,0,1
+4,"Saratoga","NCC-1878","Saratoga",4,1,1
+5,"Soyuz","NCC-1879","Saratoga",4,0,1
+6,"Defiant","NCC-12350","Defiant",7,1,1
+7,"Pastuer","NCC-10450","Saltz",8,0,1
+8,"T'Pau","NCC-875","Surak",8,0,1
+9,"Grissom","NCC-890","Surak",8,0,1
+10,"Surak","NCC855","Surak",8,1,1

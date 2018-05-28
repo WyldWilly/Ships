@@ -1,0 +1,12 @@
+E:\Git\Ships\Ships.Data\obj\Debug\Ships.Data.csprojResolveAssemblyReference.cache
+E:\Git\Ships\Ships.Data\obj\Debug\Ships.Data.csproj.CoreCompileInputs.cache
+E:\Git\Ships\Ships.Data\bin\Debug\Ships.Data.dll.config
+E:\Git\Ships\Ships.Data\bin\Debug\Ships.Data.dll
+E:\Git\Ships\Ships.Data\bin\Debug\Ships.Data.pdb
+E:\Git\Ships\Ships.Data\bin\Debug\EntityFramework.dll
+E:\Git\Ships\Ships.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\Ships\Ships.Data\bin\Debug\EntityFramework.xml
+E:\Git\Ships\Ships.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\Ships\Ships.Data\obj\Debug\Ships.Data.csproj.CopyComplete
+E:\Git\Ships\Ships.Data\obj\Debug\Ships.Data.dll
+E:\Git\Ships\Ships.Data\obj\Debug\Ships.Data.pdb
